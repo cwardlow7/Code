@@ -1,3 +1,3 @@
-#First File On CPU
+#first github file
 
-print('hello world')
+print('Hello World')
